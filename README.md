@@ -50,4 +50,3 @@ How to connect a MySQL database in Python?
 Finally, run the Python program in your editor tool and enter the user input then 
 refresh the server in MySQL DB, the data are encountered in the respective attribute.
  
-
